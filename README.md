@@ -1,8 +1,10 @@
-# sentiment_analysis
+# Automatical Reviews Analyzer 
+### Objective
 1. Implement and compare three types of linear classifiers: the perceptron algorithm, the average perceptron algorithm, and the Pegasos algorithm.
 2. Use your classifiers on the food review dataset, using some simple text features.
 3. Experiment with additional features and explore their impact on classifier performance.
 
+### Documents
 * project1.py contains various useful functions and function templates that you will use to implement your learning algorithms.
 * main.py is a script skeleton where these functions are called and you can run your experiments.
 * utils.py contains utility functions that the staff has implemented for you.
