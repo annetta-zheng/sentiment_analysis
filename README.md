@@ -8,7 +8,9 @@
 * project1.py - various functions for algorithms.
 * main.py - a script where these functions are called.
 * utils.py - contains utility functions.
-* test.py - a script which runs tests
+* test.py - a script which runs tests.
+
+
 ![Figure_1](https://user-images.githubusercontent.com/67286396/170518149-3466c443-28c8-4d92-9143-e035f0b80693.png)
 ![Figure_2](https://user-images.githubusercontent.com/67286396/170518161-982e851b-029d-4f62-9bcf-063d13d28678.png)
 ![Figure_3](https://user-images.githubusercontent.com/67286396/170518177-7e79f480-c7b1-4b71-a1fa-80f274d6c501.png)
